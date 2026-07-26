@@ -13,6 +13,7 @@ pnpm dev
 # or
 bun dev
 ```
+live link : [https://scango-mu.vercel.app](https://scango-mu.vercel.app)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
